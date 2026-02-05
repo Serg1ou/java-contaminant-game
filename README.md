@@ -14,3 +14,6 @@ It focuses on object-oriented design, deterministic movement logic.
 
 ## Goal
 The goal was to implement correct logic under predefined rules and tests.
+
+## Notes 
+Originally developed as a university project (2023). Refactored and published to GitHub in 2026.
